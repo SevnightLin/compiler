@@ -1,0 +1,6 @@
+//test const local var define
+int main(){
+    const int a = 10;
+    const int b = 5;
+    return b;
+}
